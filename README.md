@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog HTML and CSS files.
